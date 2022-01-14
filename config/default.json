@@ -1,0 +1,7 @@
+{
+  "port": 4000,
+  "jwtSecret": "vitaly youtube mern",
+  "baseUrl": "http://localhost:4000",
+  "mongoUrl": "mongodb+srv://hedonismv:1927fcdM@cluster0.lkziz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
+
